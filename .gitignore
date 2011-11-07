@@ -2,3 +2,7 @@
 /jobsiteDemo/jobsiteDemo/App_Data
 /jobsiteDemo/jobsiteDemo/bin
 /jobsiteDemo/jobsiteDemo/obj
+
+/jobsiteDemo/jobsiteDemo.Tests/bin
+/jobsiteDemo/jobsiteDemo.Tests/obj
+/jobsiteDemo/jobsiteDemo.Tests/obj/Debug
