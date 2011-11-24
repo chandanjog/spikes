@@ -1,0 +1,109 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="jobsiteDemo.Tests.Controllers.HomeControllerTest" type="MsTestTestClassElement" TypeName="jobsiteDemo.Tests.Controllers.HomeControllerTest" Project="42EE96CC-D0FF-45C8-AFA8-2C0C4F44C034" />
+        <UnitTestElement Provider="MSTest" Id="jobsiteDemo.Tests.Controllers.HomeControllerTest.About" ParentId="jobsiteDemo.Tests.Controllers.HomeControllerTest" type="MsTestTestMethodElement" MethodName="About" Project="42EE96CC-D0FF-45C8-AFA8-2C0C4F44C034" />
+        <UnitTestElement Provider="nUnit" Id="specs.ClickAboutFeature" type="NUnitTestFixtureElement" Project="80E0E4DC-C272-43C2-9124-677520C56FC3" />
+        <UnitTestElement Provider="nUnit" Id="specs.ClickAboutFeature.ClickAboutLink" ParentId="specs.ClickAboutFeature" type="NUnitTestElement" TypeName="specs.ClickAboutFeature" MethodName="ClickAboutLink" Project="80E0E4DC-C272-43C2-9124-677520C56FC3" />
+        <UnitTestElement Provider="MSTest" Id="jobsiteDemo.Tests.Controllers.HomeControllerTest.Index" ParentId="jobsiteDemo.Tests.Controllers.HomeControllerTest" type="MsTestTestMethodElement" MethodName="Index" Project="42EE96CC-D0FF-45C8-AFA8-2C0C4F44C034" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/d:Controllers/f:AccountController.cs" caret="13" fromTop="0" />
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/d:Controllers/f:HomeController.cs" caret="112" fromTop="5" />
+      <File id="42EE96CC-D0FF-45C8-AFA8-2C0C4F44C034/d:Controllers/f:HomeControllerTest.cs" caret="0" fromTop="0" />
+      <File id="42EE96CC-D0FF-45C8-AFA8-2C0C4F44C034/f:App.config" caret="299" fromTop="14" />
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/f:Web.config" caret="118" fromTop="3" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistration.feature.cs" caret="0" fromTop="0" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistration.feature" caret="106" fromTop="5" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="355" fromTop="12" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/d:StepHelpers/f:WebBrowser.cs" caret="37" fromTop="1" />
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="42EE96CC-D0FF-45C8-AFA8-2C0C4F44C034/d:Controllers/f:HomeControllerTest.cs" caret="0" fromTop="0" />
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/d:Controllers/f:AccountController.cs" caret="13" fromTop="0" />
+      <File id="D3CFB3B8-6849-4B05-9FB3-F2640C734264/d:Controllers/f:AccountController.cs" caret="6683" fromTop="31" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistration.feature" caret="98" fromTop="4" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistration.feature" caret="223" fromTop="9" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="74" fromTop="4" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="74" fromTop="26" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="9" fromTop="0" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="58" fromTop="2" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="148" fromTop="7" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="574" fromTop="19" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="733" fromTop="24" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/d:StepHelpers/f:WebBrowser.cs" caret="99" fromTop="2" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/d:StepHelpers/f:WebBrowser.cs" caret="585" fromTop="27" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/d:StepHelpers/f:WebBrowser.cs" caret="585" fromTop="18" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/d:StepHelpers/f:WebBrowser.cs" caret="207" fromTop="9" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/d:StepHelpers/f:WebBrowser.cs" caret="585" fromTop="21" />
+      <File id="80E0E4DC-C272-43C2-9124-677520C56FC3/f:ContactRegistrationStepDefinition.cs" caret="397" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="63" />
+      <Item value="static" priority="31" />
+      <Item value="WebBrowser`0" priority="127" />
+      <Item value="using" priority="61" />
+      <Item value="WatiN.Core" priority="30" />
+      <Item value="Browser`0" priority="31" />
+      <Item value="get" priority="32" />
+      <Item value="if" priority="31" />
+      <Item value="ScenarioContext`0" priority="63" />
+      <Item value="new" priority="63" />
+      <Item value="FireFox" priority="26" />
+      <Item value="return" priority="31" />
+      <Item value="as" priority="31" />
+      <Item value="FireFox`0" priority="32" />
+      <Item value="WebBrowser" priority="16" />
+      <Item value="OpenQA" priority="30" />
+      <Item value="Selenium" priority="26" />
+      <Item value="IWebDriver`0" priority="63" />
+      <Item value="private" priority="31" />
+      <Item value="FirefoxDriver" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TechTalk.SpecFlow.ScenarioContext">
+      <Item value="Current" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechTalk.SpecFlow.ScenarioContext">
+      <Item value="ContainsKey`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@specs.StepHelpers.WebBrowser">
+      <Item value="Current" priority="26" />
+      <Item value="Driver" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WatiN.Core.Browser">
+      <Item value="GoTo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenQA.Selenium.IWebDriver">
+      <Item value="Navigate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenQA.Selenium.INavigation">
+      <Item value="GoToUrl`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
